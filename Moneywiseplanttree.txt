@@ -1,0 +1,11 @@
+moneywise/
+├── main.py
+├── database.py
+├── ui_components.py
+├── report_generator.py  # Xử lý tạo string HTML và lưu file .png
+├── utils.py
+├── assets/
+│   └── backgrounds/
+├── data/
+│   └── moneywise.db
+└── requirements.txt
